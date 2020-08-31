@@ -12,6 +12,7 @@
 ## Languages and Tools
 
 <img align="left" alt="IntelliJ" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd5%2FIntelliJ_IDEA_Logo.svg%2F1200px-IntelliJ_IDEA_Logo.svg.png&f=1&nofb=1" />
+<img align="left" alt=PyCharm" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa1%2FPyCharm_Logo.svg%2F1200px-PyCharm_Logo.svg.png&f=1&nofb=1" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Java" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsdtimes.com%2Fwp-content%2Fuploads%2F2019%2F03%2FjW4dnFtA_400x400.jpg&f=1&nofb=1" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
