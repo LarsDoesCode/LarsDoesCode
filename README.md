@@ -4,7 +4,7 @@
 
 # I'm a Developer 👨‍💻
 
-- 🔨 I'm currently working on my 'Pong' repository
+- 🔨 I'm currently working on school related projects
 - 🌿 I'm currently learing Java ☕️ and Python 🐍
 - 👨‍💻 Im programming on a MacBook Pro 💻 and a PC 🖥
 - 😄 Pronouns: he/him
